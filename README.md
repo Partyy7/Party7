@@ -58,17 +58,8 @@
 
  <section id="catalogo" class="catalogo">
   <h2>Catálogo de Productos</h2>
-
-  <h3>Mesas y Sillas</h3>
   <div class="catalogo-item">
-    <img src="mesa_con_sillas.jpg.png" alt="Juego de mesa con sillas" />
-    <div class="catalogo-item-info">
-      <h3>Juego de mesa con sillas</h3>
-      <p>Precio: $15.00 por set</p>
-    </div>
-  </div>
-  <div class="catalogo-item">
-    <img src="mesaplastico.jpg" alt="Mesa rectangular + 8 sillas" />
+    <img src="mesa_con_sillas.jpg.png" alt="Mesa rectangular + 8 sillas" />
     <div class="catalogo-item-info">
       <h3>Mesa rectangular + 8 sillas</h3>
       <p>Precio: $12</p>
@@ -112,7 +103,7 @@
   <div class="catalogo-item">
     <img src="sillas_madera.jpg.png" alt="Sillas de Resina" />
     <div class="catalogo-item-info">
-      <h3>Sillas blancas elegantes</h3>
+      <h3>Sillas de Resina</h3>
       <p>Precio: $2.50 por unidad</p>
     </div>
   </div>
