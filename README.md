@@ -60,7 +60,7 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
 </p>
   </section>
 
-  <section id="catalogo" class="catalogo">
+<section id="catalogo" class="catalogo">
   <h2>Catálogo de Productos</h2>
 
   <div class="catalogo-item">
@@ -93,34 +93,37 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
       <h3>Decoración con letras y globos</h3>
       <p>Precio: Desde $50.00</p>
     </div>
-     <div class="artículo-de-catálogo">
+  </div>
+
+  <div class="catalogo-item">
     <img src="deco.jpeg" alt="Paquete decoración de globos" />
-    <div class="información del artículo del catálogo">
+    <div class="catalogo-item-info">
       <h3>Paquete Decoración de Globos</h3>
-      Precio: $220
+      <p>Precio: $220</p>
       <ul>
-        Guirnalda de globos
+        <li>Guirnalda de globos</li>
         <li>Fondo del color a elección</li>
         <li>Una mesa con mantel</li>
         <li>2 floreros</li>
         <li>Juego de 3 piezas para la mesa (dorado o blanco)</li>
       </ul>
     </div>
-  </div>​​
+  </div>
 
-  <div class="artículo-de-catálogo">
+  <div class="catalogo-item">
     <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
-    <div class="información del artículo del catálogo">
+    <div class="catalogo-item-info">
       <h3>Guirnalda con fondo + luz LED</h3>
-      Precio: $150
+      <p>Precio: $150</p>
       <ul>
-        Guirnalda de globos
+        <li>Guirnalda de globos</li>
         <li>Fondo del color a elección</li>
         <li>Luz LED decorativa</li>
       </ul>
+    </div>
   </div>
 </section>
-<div>
+
 <div class="whatsapp">
   <a href="https://wa.me/16822947482" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
@@ -131,3 +134,4 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
   <p>&copy; 2025 Party 7. Todos los derechos reservados.</p>
   <p>Síguenos en: <a href="#">Instagram</a> | <a href="#">Facebook</a> | <a href="#">TikTok</a></p>
 </footer>
+
