@@ -93,6 +93,31 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
       <h3>Decoración con letras y globos</h3>
       <p>Precio: Desde $50.00</p>
     </div>
+     <div class="artículo-de-catálogo">
+    <img src="deco.jpeg" alt="Paquete decoración de globos" />
+    <div class="información del artículo del catálogo">
+      <h3>Paquete Decoración de Globos</h3>
+      Precio: $220
+      <ul>
+        Guirnalda de globos
+        <li>Fondo del color a elección</li>
+        <li>Una mesa con mantel</li>
+        <li>2 floreros</li>
+        <li>Juego de 3 piezas para la mesa (dorado o blanco)</li>
+      </ul>
+    </div>
+  </div>​​
+
+  <div class="artículo-de-catálogo">
+    <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
+    <div class="información del artículo del catálogo">
+      <h3>Guirnalda con fondo + luz LED</h3>
+      Precio: $150
+      <ul>
+        Guirnalda de globos
+        <li>Fondo del color a elección</li>
+        <li>Luz LED decorativa</li>
+      </ul>
   </div>
 </section>
 
