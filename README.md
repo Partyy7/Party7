@@ -75,7 +75,7 @@
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="mesasillavestidas.jpeg" alt="Mesa rectangular vestida + 8 sillas vestidas" />
+    <img src="mesasillasvestidas.jpeg" alt="Mesa rectangular vestida + 8 sillas vestidas" />
     <div class="catalogo-item-info">
       <h3>Mesa rectangular vestida (color a elección) + 8 sillas vestidas</h3>
       <p>Precio: $20</p>
@@ -110,17 +110,17 @@
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="sillas_madera.jpg.png" alt="Sillas blancas elegantes" />
+    <img src="sillas_madera.jpg.png" alt="Sillas de Resina" />
     <div class="catalogo-item-info">
       <h3>Sillas blancas elegantes</h3>
       <p>Precio: $2.50 por unidad</p>
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="sillaplastico.jpeg" alt="Silla de plástico" />
+    <img src="sillaplastico.jpeg" alt="Silla de Plástico" />
     <div class="catalogo-item-info">
       <h3>Silla de plástico</h3>
-      <p>Precio: $1.50</p>
+      <p>Precio: $1.50 por unidad</p>
     </div>
   </div>
   <div class="catalogo-item">
