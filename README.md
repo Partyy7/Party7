@@ -57,63 +57,145 @@
     </p>
   </section>
 
-  <section id="catalogo" class="catalogo">
-    <h2>Catálogo de Productos</h2>
-    <div class="catalogo-item">
-      <img src="mesa_con_sillas.jpg.png" alt="Mesa y sillas" />
-      <div class="catalogo-item-info">
-        <h3>Juego de mesa con sillas</h3>
-        <p>Precio: $15.00 por set</p>
-      </div>
+ <section id="catalogo" class="catalogo">
+  <h2>Catálogo de Productos</h2>
+
+  <h3>Mesas y Sillas</h3>
+  <div class="catalogo-item">
+    <img src="mesa_con_sillas.jpg.png" alt="Juego de mesa con sillas" />
+    <div class="catalogo-item-info">
+      <h3>Juego de mesa con sillas</h3>
+      <p>Precio: $15.00 por set</p>
     </div>
-    <div class="catalogo-item">
-      <img src="sillas_madera.jpg.png" alt="Sillas de madera" />
-      <div class="catalogo-item-info">
-        <h3>Sillas blancas elegantes</h3>
-        <p>Precio: $2.50 por unidad</p>
-      </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="mesaplastico.jpg" alt="Mesa rectangular + 8 sillas" />
+    <div class="catalogo-item-info">
+      <h3>Mesa rectangular + 8 sillas</h3>
+      <p>Precio: $12</p>
     </div>
-    <div class="catalogo-item">
-      <img src="neon.jpeg" alt="Decoración Neón" />
-      <div class="catalogo-item-info">
-        <h3>Decoración Personalizada</h3>
-        <p>Precio: $50 personalizado</p>
-      </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="mesasillavestidas.jpeg" alt="Mesa rectangular vestida + 8 sillas vestidas" />
+    <div class="catalogo-item-info">
+      <h3>Mesa rectangular vestida (color a elección) + 8 sillas vestidas</h3>
+      <p>Precio: $20</p>
     </div>
-    <div class="catalogo-item">
-      <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
-      <div class="catalogo-item-info">
-        <h3>Decoración con letras y globos</h3>
-        <p>Precio: Desde $50.00</p>
-      </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="mesa+resina.jpeg" alt="Mesa rectangular vestida + 8 sillas de resina" />
+    <div class="catalogo-item-info">
+      <h3>Mesa rectangular vestida + 8 sillas de resina</h3>
+      <p>Precio: $25</p>
     </div>
-    <div class="catalogo-item">
-      <img src="deco.jpeg" alt="Paquete decoración de globos" />
-      <div class="catalogo-item-info">
-        <h3>Paquete Decoración de Globos</h3>
-        <p>Precio: $220</p>
-        <ul>
-          <li>Guirnalda de globos</li>
-          <li>Fondo del color a elección</li>
-          <li>Una mesa con mantel</li>
-          <li>2 floreros</li>
-          <li>Juego de 3 piezas para la mesa (dorado o blanco)</li>
-        </ul>
-      </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="redondasillas.jpeg" alt="Mesa redonda + 8 sillas" />
+    <div class="catalogo-item-info">
+      <h3>Mesa redonda + 8 sillas</h3>
+      <p>Precio: $15</p>
     </div>
-    <div class="catalogo-item">
-      <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
-      <div class="catalogo-item-info">
-        <h3>Guirnalda con fondo + luz LED</h3>
-        <p>Precio: $150</p>
-        <ul>
-          <li>Guirnalda de globos</li>
-          <li>Fondo del color a elección</li>
-          <li>Luz LED decorativa</li>
-        </ul>
-      </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="redondavestida.jpg" alt="Mesa redonda vestida + 8 sillas vestidas" />
+    <div class="catalogo-item-info">
+      <h3>Mesa redonda vestida + 8 sillas vestidas</h3>
+      <p>Precio: $30</p>
     </div>
-  </section>
+  </div>
+  <div class="catalogo-item">
+    <img src="camino.jpeg" alt="Mesa redonda vestida con camino + 8 sillas de resina" />
+    <div class="catalogo-item-info">
+      <h3>Mesa redonda vestida con camino + 8 sillas de resina</h3>
+      <p>Precio: $35</p>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="sillas_madera.jpg.png" alt="Sillas blancas elegantes" />
+    <div class="catalogo-item-info">
+      <h3>Sillas blancas elegantes</h3>
+      <p>Precio: $2.50 por unidad</p>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="sillaplastico.jpeg" alt="Silla de plástico" />
+    <div class="catalogo-item-info">
+      <h3>Silla de plástico</h3>
+      <p>Precio: $1.50</p>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="mesa.png" alt="Mesa rectangular" />
+    <div class="catalogo-item-info">
+      <h3>Mesa rectangular</h3>
+      <p>Precio: $5</p>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="redonda.jpeg" alt="Mesa redonda" />
+    <div class="catalogo-item-info">
+      <h3>Mesa redonda</h3>
+      <p>Precio: $10</p>
+    </div>
+  </div>
+  <h3>Decoración</h3>
+  <div class="catalogo-item">
+    <img src="deco.jpeg" alt="Paquete decoración de globos" />
+    <div class="catalogo-item-info">
+      <h3>Paquete Decoración de Globos</h3>
+      <p>Precio: $220</p>
+      <ul>
+        <li>Guirnalda de globos</li>
+        <li>Fondo del color a elección</li>
+        <li>Una mesa con mantel</li>
+        <li>2 floreros</li>
+        <li>Juego de 3 piezas para la mesa (dorado o blanco)</li>
+      </ul>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
+    <div class="catalogo-item-info">
+      <h3>Guirnalda con fondo + luz LED</h3>
+      <p>Precio: $150</p>
+      <ul>
+        <li>Guirnalda de globos</li>
+        <li>Fondo del color a elección</li>
+        <li>Luz LED decorativa</li>
+      </ul>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
+    <div class="catalogo-item-info">
+      <h3>Decoración con letras y globos</h3>
+      <p>Precio: Desde $50.00</p>
+    </div>
+  </div>
+
+  <div class="catalogo-item">
+    <img src="neon.jpeg" alt="Decoración Neón" />
+    <div class="catalogo-item-info">
+      <h3>Decoración Personalizada</h3>
+      <p>Precio: $50 personalizado</p>
+    </div>
+  </div>
+  <h3>Complementos</h3>
+  <div class="catalogo-item">
+    <img src="florero.jpeg" alt="Florero decorativo" />
+    <div class="catalogo-item-info">
+      <h3>Florero (color a elección)</h3>
+      <p>Precio: $2.50</p>
+    </div>
+  </div>
+  <div class="catalogo-item">
+    <img src="platodorado.jpeg" alt="Plato dorado" />
+    <div class="catalogo-item-info">
+      <h3>Plato dorado</h3>
+      <p>Precio: $0.50 por unidad</p>
+    </div>
+  </div>
+</section>
 
   <div class="whatsapp">
     <a href="https://wa.me/16822947482" target="_blank">
