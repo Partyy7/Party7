@@ -120,7 +120,7 @@ Cada detalle es diseñado con dedicación y creatividad, adaptándonos a tus gus
       </ul>
   </div>
 </section>
-
+<div>
 <div class="whatsapp">
   <a href="https://wa.me/16822947482" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" alt="WhatsApp">
