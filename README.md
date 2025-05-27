@@ -162,14 +162,6 @@
       <p>Precio: Desde $50.00</p>
     </div>
   </div>
-
-  <div class="catalogo-item">
-    <img src="neon.jpeg" alt="Decoración Neón" />
-    <div class="catalogo-item-info">
-      <h3>Decoración Personalizada</h3>
-      <p>Precio: $50 personalizado</p>
-    </div>
-  </div>
   <h3>Complementos</h3>
   <div class="catalogo-item">
     <img src="florero.jpeg" alt="Florero decorativo" />
