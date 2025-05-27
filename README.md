@@ -159,7 +159,7 @@
     <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
     <div class="catalogo-item-info">
       <h3>Decoración con letras y globos</h3>
-      <p>Precio: Desde $50.00</p>
+      <p>Precio: Desde $150.00</p>
     </div>
   </div>
   <h3>Complementos</h3>
