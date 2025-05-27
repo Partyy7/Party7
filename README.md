@@ -45,7 +45,6 @@
       <img src="bayron.png" alt="bayron" />
       <img src="baby.jpeg" alt="baby" />
       <img src="leao.jpeg" alt="leao" />
-      <img src="blanco.jpeg" alt="blanco" />
     </div>
   </section>
 
