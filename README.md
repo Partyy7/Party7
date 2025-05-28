@@ -158,7 +158,7 @@
     <img src="globos.jpg" alt="Decoración con globos" />
     <div class="catalogo-item-info">
       <h3>Guirnalda de Globos</h3>
-      <p>Precio: $150.00</p>
+      <p>Precio: $150</p>
     </div>
   </div>
   <h3>Complementos</h3>
