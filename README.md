@@ -99,13 +99,7 @@
       <p>Precio: $35</p>
     </div>
   </div>
-  <div class="catalogo-item">
-    <img src="sillas_madera.jpg.png" alt="Sillas de Resina" />
-    <div class="catalogo-item-info">
-      <h3>Sillas de Resina</h3>
-      <p>Precio: $2.50 por unidad</p>
-    </div>
-  </div>
+ </div>
   <div class="catalogo-item">
     <img src="sillapl.png" alt="Silla de Plástico" />
     <div class="catalogo-item-info">
@@ -113,6 +107,12 @@
       <p>Precio: $1.50 por unidad</p>
     </div>
   </div>
+   <div class="catalogo-item">
+    <img src="sillas_madera.jpg.png" alt="Sillas de Resina" />
+    <div class="catalogo-item-info">
+      <h3>Sillas de Resina</h3>
+      <p>Precio: $2.50 por unidad</p>
+    </div>
   <div class="catalogo-item">
     <img src="mesa.png" alt="Mesa rectangular" />
     <div class="catalogo-item-info">
