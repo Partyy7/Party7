@@ -132,7 +132,7 @@
     <img src="deco.jpeg" alt="Paquete decoración de globos" />
     <div class="catalogo-item-info">
       <h3>Paquete Decoración de Globos</h3>
-      <p>Precio: $220</p>
+      <p>Precio: $250</p>
       <ul>
         <li>Guirnalda de globos</li>
         <li>Fondo del color a elección</li>
