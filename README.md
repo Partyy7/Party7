@@ -99,7 +99,6 @@
       <p>Precio: $35</p>
     </div>
   </div>
- </div>
   <div class="catalogo-item">
     <img src="sillapl.png" alt="Silla de Plástico" />
     <div class="catalogo-item-info">
