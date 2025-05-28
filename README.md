@@ -107,7 +107,7 @@
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="sillaplastico.jpeg" alt="Silla de Plástico" />
+    <img src="sillapl.png" alt="Silla de Plástico" />
     <div class="catalogo-item-info">
       <h3>Silla de plástico</h3>
       <p>Precio: $1.50 por unidad</p>
@@ -155,10 +155,10 @@
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="grad_decor.jpg.jpeg" alt="Decoración con globos" />
+    <img src="globos.jpg" alt="Decoración con globos" />
     <div class="catalogo-item-info">
-      <h3>Decoración con letras y globos</h3>
-      <p>Precio: Desde $150.00</p>
+      <h3>Guirnalda de Globos</h3>
+      <p>Precio: $150.00</p>
     </div>
   </div>
   <h3>Complementos</h3>
