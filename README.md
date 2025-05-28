@@ -112,6 +112,7 @@
       <h3>Sillas de Resina</h3>
       <p>Precio: $2.50 por unidad</p>
     </div>
+  </div>
   <div class="catalogo-item">
     <img src="mesa.png" alt="Mesa rectangular" />
     <div class="catalogo-item-info">
