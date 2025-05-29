@@ -100,7 +100,7 @@
     </div>
   </div>
   <div class="catalogo-item">
-    <img src="sillapl.png" alt="Silla de Plástico" />
+    <img src="sillaplas.png" alt="Silla de Plástico" />
     <div class="catalogo-item-info">
       <h3>Silla de plástico</h3>
       <p>Precio: $1.50 por unidad</p>
@@ -146,7 +146,7 @@
     <img src="arcoled.jpeg" alt="Guirnalda con fondo y luces" />
     <div class="catalogo-item-info">
       <h3>Guirnalda con fondo + luz LED</h3>
-      <p>Precio: $150</p>
+      <p>Precio: $180</p>
       <ul>
         <li>Guirnalda de globos</li>
         <li>Fondo del color a elección</li>
